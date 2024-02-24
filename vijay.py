@@ -1,1 +1,1 @@
-print("vijay is 2nd superstar")
+print("vijay is 2nd superstar in tamil")

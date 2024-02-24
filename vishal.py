@@ -1,1 +1,1 @@
-print("vishal super actor")
+print("vishal super actor as junior")
