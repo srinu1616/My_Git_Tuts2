@@ -1,0 +1,1 @@
+print("kamals acting amazing")
