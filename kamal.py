@@ -1,1 +1,1 @@
-print("kamals acting amazing")
+print("kamal famous actor in India, saying srinusrinu")
